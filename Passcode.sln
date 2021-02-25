@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passcode", "Passcode\Passcode.csproj", "{45555ACA-9984-4881-9D32-AF4240AD4739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45555ACA-9984-4881-9D32-AF4240AD4739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45555ACA-9984-4881-9D32-AF4240AD4739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45555ACA-9984-4881-9D32-AF4240AD4739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45555ACA-9984-4881-9D32-AF4240AD4739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C89D91-AECD-40EF-91F1-840C0CE8E903}
+	EndGlobalSection
+EndGlobal
